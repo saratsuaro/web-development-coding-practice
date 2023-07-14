@@ -1,11 +1,6 @@
 
 #                                           Spring Boot Projects - Full Stack
    Total projects provide Source Codes/Guides/App, indeed down below represents. We take an opinionated view of the Spring platform and several-party libraries so you can get started with as Spring Boot.
-   
-   ----
-  
-#  
-![springMove1](https://user-images.githubusercontent.com/11626327/82535952-a5ec4500-9b82-11ea-97e1-688ac0d4410b.jpg)
 
 
 ## Configuration table
